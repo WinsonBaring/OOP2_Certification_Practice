@@ -1,4 +1,4 @@
-package org.example;
+package Exercise_on_Classes;
 
 /**
  * The Circle class models a circle with a radius and color.

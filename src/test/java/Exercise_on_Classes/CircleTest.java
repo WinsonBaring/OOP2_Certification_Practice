@@ -1,10 +1,6 @@
-package org.example;
+package Exercise_on_Classes;
 
-import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
-
- class  CircleTest{  // Save as "TestCircle.java"
+class  CircleTest{  // Save as "TestCircle.java"
     public static void main(String[] args) {
         // Declare an instance of Circle class called c1.
         // Construct the instance c1 by invoking the "default" constructor

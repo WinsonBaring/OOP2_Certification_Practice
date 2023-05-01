@@ -1,4 +1,4 @@
-package org.example;
+package Exercise_on_Classes;
 
 public class Time {
     public static void main(String[] args) {
